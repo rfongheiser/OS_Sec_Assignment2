@@ -1,3 +1,5 @@
+OS_Sec_Assignment2
+
 This project is an assignment for COSC 440 (Operating Systems Security) at Towson University.
 
 The project goal is to:
@@ -12,12 +14,17 @@ INSTRUCTIONS:
 
 1) Clone this repository (make sure git is installed)
       i.) git clone https://github.com/rfongheiser/OS_Sec_Assignment2 /rfongheiser (SPACE BETWEEN OS_SEC_ASSIGNMENT2 and /rfongheiser)
+      
 2) Change the directory to the repository
       i.) cd /rfongheiser
+      
 3) Give the script executable permissions
       i.) sudo chmod +x assignment2.py
+      
 4) Ensure the user has permissions to access shadow file
+
 5) Ensure there is a dictionary in the file path "/usr/share/dict/american-english"
+
 6) Run the script with the correct arguments
       i.) python assignment2.py <username> <shadow_file_path>
       ii.) Example: python assignment2.py csuser /etc/shadow
