@@ -13,7 +13,7 @@ If the password is not in the dictionary, the program should state “password n
 INSTRUCTIONS: 
 
 1) Clone this repository (make sure git is installed)
-      i.) git clone https://github.com/rfongheiser/OS_Sec_Assignment2 /rfongheiser (SPACE BETWEEN OS_SEC_ASSIGNMENT2 and /rfongheiser)
+      i.) git clone https://github.com/rfongheiser/OS_Sec_Assignment2.git /rfongheiser (SPACE BETWEEN OS_SEC_ASSIGNMENT2.git and /rfongheiser)
       
 2) Change the directory to the repository
       i.) cd /rfongheiser
