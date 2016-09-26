@@ -26,6 +26,6 @@ INSTRUCTIONS:
 5) Ensure there is a dictionary in the file path "/usr/share/dict/american-english"
 
 6) Run the script with the correct arguments
-      i.) python assignment2.py <username> <shadow_file_path>
+      i.) sudo python assignment2.py <username> <shadow_file_path>
       ii.) Example: python assignment2.py csuser /etc/shadow
       
